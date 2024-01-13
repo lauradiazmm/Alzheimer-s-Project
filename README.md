@@ -2,15 +2,13 @@
 
 
 # Prediction Models for Alzheimer's Detection
-*Laura Díaz*
+*Laura Díaz-Muñoz*
 
 
 ## Content
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
 
 
 ## Project Description
