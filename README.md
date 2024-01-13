@@ -1,9 +1,9 @@
-<img src="[https://bit.ly/2VnXWr2](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FIDBootcamps&psig=AOvVaw11DZ4VqvJ_yiwXUqLC0-1C&ust=1705255379162000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjbzbz52oMDFQAAAAAdAAAAABAD)" alt="IDbootcamp Logo" width="100"/>
+<img src="https://pbs.twimg.com/profile_images/1392422291808587776/BSCkw4DW_400x400.jpg" alt="IDbootcamp Logo" width="100"/>
+
 
 # Prediction Models for Alzheimer's Detection
 *Laura Díaz*
 
-*DAFT October 2020, Barcelona & 11/11/2020*
 
 ## Content
 - [Project Description](#project-description)
