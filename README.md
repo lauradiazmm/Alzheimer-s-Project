@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/profile_images/1392422291808587776/BSCkw4DW_400x400.jpg" alt="IDbootcamp Logo" width="100"/>
 
 
-# Prediction Models for Alzheimer's Detection
+# Prediction Models for Alzheimer's Detection 🧠
 *Laura Díaz-Muñoz*
 
 
@@ -9,7 +9,7 @@
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-
+- [Technologies](#technologies)
 
 ## Project Description
 **Prediction Models for Alzheimer's Detection**: This project focuses on developing an effective predictive model for Alzheimer's disease, using both **machine learning (Random Forest, XGBoost)** and **deep learning (CNN)** on clinical data and neuroimages(MRI). The comprehensive approach involves preprocessing clinical and imaging data from the OASIS-3 dataset to optimize model performance.
@@ -25,3 +25,6 @@ The workflow encompasses data preprocessing, model application, and evaluation. 
 * Preprocessing T1w MRI images
 * Exploring custom and pre-trained CNNs (VGG16)
 * Assessing model performance
+
+## Technologies
+
