@@ -2,7 +2,7 @@
 
 
 # Prediction Models for Alzheimer's Detection 🧠
-*Laura Díaz-Muñoz*
+*Laura Díaz-Muñoz Manzanares*
 
 
 ## Content
