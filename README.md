@@ -11,7 +11,7 @@
 - [Workflow](#workflow)
 - [Technologies](#technologies)
 
-# Project Description 📝
+## Project Description 📝
 **Prediction Models for Alzheimer's Detection**: This project focuses on developing an effective predictive model for Alzheimer's disease, using both **machine learning (Random Forest, XGBoost)** and **deep learning (CNN)** on clinical data and neuroimages(MRI). The comprehensive approach involves preprocessing clinical and imaging data from the OASIS-3 dataset to optimize model performance.
 
 ## Dataset 🗂
