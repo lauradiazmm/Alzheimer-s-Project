@@ -27,4 +27,14 @@ The workflow encompasses data preprocessing, model application, and evaluation. 
 * Assessing model performance
 
 ## Technologies
+- Programming Language: Python
+- Data Manipulation and Analysis: NumPy, Pandas
+- Machine Learning: Scikit-Learn, XGBoost, Random Forest
+- Deep Learning: TensorFlow, Keras
+- Data Visualization: Matplotlib, Seaborn
+- Neural Networks: Convolutional Neural Networks (CNNs)-VGG16
+- Model Evaluation: Accuracy, Recall, Precision, F1-Score, ROC Curve
+- Project Documentation: Jupyter Notebooks
+
+
 
