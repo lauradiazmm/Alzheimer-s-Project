@@ -6,8 +6,8 @@
 
 
 ## Content
-- [Project Description](#Project-Description-📝)
-- [Dataset](#Dataset)
+- [Project Description](#project-description-📝)
+- [Dataset](#dataset-🗂)
 - [Workflow](#workflow)
 - [Technologies](#technologies)
 
