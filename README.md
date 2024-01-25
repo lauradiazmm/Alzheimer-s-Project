@@ -20,6 +20,9 @@ The project utilizes the OASIS-3 dataset, comprising clinical, cognitive, and ne
 Example of the dataset "health" with clinical data about the subjects. 
 <img src="https://github.com/lauradiazmm/Alzheimer-s-Project/blob/main/Data/Image%20example%20dataset.png">
 
+Example of MRI images of a subject without Alzheimer (left) and with the disease (right).
+<img src="https://github.com/lauradiazmm/Alzheimer-s-Project/blob/main/Data/Image%20example%20Tw1.png">
+
 ## Workflow 📈
 The workflow encompasses data preprocessing, model application, and evaluation. Notable steps include: 
 * Handling missing values
