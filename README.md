@@ -17,6 +17,9 @@
 ## Dataset 🗂
 The project utilizes the OASIS-3 dataset, comprising clinical, cognitive, and neuroimaging data from 1378 participants over 30 years. The dataset includes diverse subjects, from cognitively normal adults to individuals in various stages of cognitive impairment. The combination of T1w MRI sequences and clinical data makes OASIS-3 a valuable resource for Alzheimer's prediction.
 
+Example of the dataset "health" with clinical data about the subjects. 
+<img src="https://github.com/lauradiazmm/Alzheimer-s-Project/blob/main/Data/Image%20example%20dataset.png">
+
 ## Workflow 📈
 The workflow encompasses data preprocessing, model application, and evaluation. Notable steps include: 
 * Handling missing values
